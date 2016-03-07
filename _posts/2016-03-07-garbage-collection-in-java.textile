@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garbage Collection in Java: A short summary
+title: Garbage Collection in Java
 ---
 
 h1. {{ page.title }}
