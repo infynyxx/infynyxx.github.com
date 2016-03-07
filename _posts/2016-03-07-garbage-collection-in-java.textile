@@ -2,9 +2,10 @@
 layout: post
 title: Garbage Collection in Java: A short summary
 ---
+
 h1. {{ page.title }}
 
-<p>
+
 JVM provides number of Garbage Collector modes based on nature of the appications.
 
 * Serial GC for running applications with small memory footprints; enabled via `-XX:+UseSerialGC`
@@ -42,4 +43,3 @@ generations. G1 GC still uses basic layout of conventional JVM GC like Young Gen
 regions. Most allocations happen in eden except for “humongous” allocations. G1 GC is designed to be One GC to rule them all from
 latency sensitive applications (HTTP servers) to throughput sensitive applications (Indexing, Batch Processing). From JDk9,
 G1 is going to be the default GC mode.
-<p/>
