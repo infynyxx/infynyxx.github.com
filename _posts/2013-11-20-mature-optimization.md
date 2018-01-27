@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quote from Mature Optimization
+tags: quote
 ---
 
 h1. {{ page.title }}

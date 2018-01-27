@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Garbage Collection in Java
+tags: jvm
 ---
 
 h1. {{ page.title }}
