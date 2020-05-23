@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Garbage Collection in Java
+author: Prajwal Tuladhar
 tags: jvm
 ---
-
-h1. {{ page.title }}
-
 
 JVM provides number of Garbage Collector modes based on nature of the appications.
 
