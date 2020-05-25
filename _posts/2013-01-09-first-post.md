@@ -1,8 +1,7 @@
 ---
 layout: post
 title: First post
+author: Prajwal Tuladhar
 ---
-
-h1. {{ page.title }}
 
 A new place to blog!
